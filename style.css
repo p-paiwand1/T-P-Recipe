@@ -1,0 +1,29 @@
+html {
+  background-color: rgb(226, 93, 32);
+}
+
+body {
+  background-color: white;
+  font: size 100px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 600px;
+  margin: auto;
+  padding: 200px 100px;
+  border-radius: 300px;
+}
+
+h1,
+h2, h3 {
+  color: rgb(231, 87, 87);
+  font-family: cursive;
+}
+
+a {
+  color: rgb(112, 218, 213);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(13, 126, 120);
+}
